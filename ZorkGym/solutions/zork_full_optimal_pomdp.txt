@@ -1,0 +1,398 @@
+north
+north
+up
+Get egg
+down
+south
+east
+Open window
+west
+Open sack
+Get garlic
+west
+Get lamp
+east
+up
+Light lamp
+Get rope and knife
+down
+Douse lamp
+west
+Get sword
+Move rug
+Open trapdoor
+down
+Light lamp
+north
+Kill troll with sword
+drop egg
+east
+east
+southeast
+east
+Tie rope to railing
+down
+Douse lamp
+Get torch
+down
+south
+Drop sword
+Get candles
+Douse candles
+Get book
+north
+Get bell
+east
+Open coffin
+Get sceptre
+west
+south
+Pray
+east
+south
+east
+west
+west
+Read book
+Turn page
+Drop all
+take torch and lamp
+Open trapdoor
+down
+north
+east
+east
+southeast
+east
+down
+down
+down
+Get coffin
+up
+south
+Pray
+east
+south
+east
+west
+west
+Open case
+Put coffin in case
+Get book
+Get bell
+Get candles
+down
+south
+east
+Get painting
+west
+north
+north
+east
+east
+east
+Echo
+Get bar
+up
+east
+north
+Drop painting
+Get matchbook
+south
+south
+down
+west
+south
+south
+east
+down
+Ring bell
+Get candles
+Light match
+Light candles with match
+Read prayer
+Drop matchbook
+Drop candles
+Drop book
+south
+get skull
+north
+up
+north
+north
+north
+west
+west
+south
+up
+Put skull in case
+Put bar in case
+down
+north
+west
+west
+west
+up
+Get knife and bag
+southwest
+east
+south
+southeast
+Odysseus
+east
+east
+Put bag in case
+Drop rusty knife
+down
+north
+east
+east
+north
+northeast
+east
+down
+Get pile
+up
+north
+north
+Get screwdriver
+Get wrench
+Press red button
+Press yellow button
+south
+south
+Turn bolt with wrench
+Drop wrench
+west
+wait
+wait
+wait
+north
+Get trunk
+south
+southwest
+south
+south
+west
+west
+south
+up
+Put trunk in case
+Drop pile
+Drop screwdriver
+down
+north
+east
+east
+south
+south
+Touch mirror
+east
+down
+Get trident
+south
+Get pump
+south
+south
+southwest
+south
+south
+west
+west
+south
+up
+Put trident in case
+Get sceptre
+Get pile
+down
+north
+east
+east
+east
+east
+east
+Drop pile
+Inflate pile
+Drop pump
+Get label
+Read label
+Drop label
+Throw sceptre in boat
+Enter boat
+Launch
+Get sceptre
+Wait
+Get buoy
+Wait
+Land
+Get out of boat
+north
+Open buoy
+Get emerald
+Drop buoy
+Get shovel
+northeast
+Dig sand
+Dig sand
+Dig sand
+Dig sand
+Drop shovel
+Get scarab
+southwest
+south
+south
+Wave sceptre
+west
+west
+Get pot
+southwest
+up
+up
+northwest
+west
+west
+west
+Put sceptre in case
+Put pot in case
+Put emerald in case
+Put scarab in case
+Get nasty knife
+west
+west
+up
+Kill thief with knife
+kill thief with knife
+kill thief with knife
+Drop knife
+Get painting
+Get egg
+get jewels
+Get chalice
+down
+east
+east
+Put painting in case
+Get canary
+Put chalice in case
+Put egg in case
+east
+east
+north
+north
+east
+Wind canary
+Get bauble
+west
+south
+east
+west
+west
+Put canary in case
+Put bauble in case
+put jewels in case
+Get screwdriver
+Get garlic
+down
+north
+east
+east
+south
+south
+Touch mirror
+north
+west
+north
+west
+north
+east
+Put torch in basket
+Put screwdriver in basket
+Light lamp
+north
+down
+east
+northeast
+southeast
+southwest
+down
+down
+south
+Get coal
+north
+up
+up
+north
+east
+south
+north
+up
+south
+Put coal in basket
+Lower basket
+north
+down
+east
+northeast
+southeast
+southwest
+down
+down
+west
+Drop all
+west
+Get all from basket
+south
+Open lid
+Put coal in machine
+Close lid
+Turn switch with screwdriver
+Open lid
+Get diamond
+north
+Put diamond in basket
+Put torch in basket
+Put screwdriver in basket
+east
+Get lamp
+Get garlic
+east
+up
+up
+north
+east
+south
+north
+Get bracelet
+up
+south
+Raise basket
+Get all from basket
+west
+Get figurine
+south
+east
+south
+down
+Drop garlic
+up
+Put diamond in case
+Put torch in case
+Put bracelet in case
+Put figurine in case
+west
+west
+up
+take trunk
+down
+east
+east
+PUT trunk in case
+Look
+Get map
+Examine map
+east
+east
+north
+west
+southwest
+west

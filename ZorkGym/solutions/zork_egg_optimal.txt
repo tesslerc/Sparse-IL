@@ -1,0 +1,5 @@
+north
+north
+go up
+take egg
+open egg

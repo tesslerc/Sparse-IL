@@ -1,0 +1,408 @@
+go north
+go north
+up
+Get egg
+down
+go south
+go east
+Open window
+go west
+Open sack
+Get garlic
+go west
+Get lamp
+go east
+up
+Light lamp
+Get rope and knife
+Douse lamp
+down
+go west
+Get sword
+Move rug
+Open trapdoor
+down
+Light lamp
+go north
+Kill troll with sword
+Kill troll with sword
+drop egg
+go east
+go east
+go southgo east
+go east
+Tie rope to railing
+down
+Douse lamp
+Get torch
+down
+go south
+Drop sword
+Get candles
+Douse candles
+Get book
+go north
+Get bell
+go east
+Open coffin
+Get sceptre
+go west
+go south
+Pray
+go east
+go south
+go east
+go west
+go west
+Read book
+Turn page
+Drop all
+take torch and lamp
+Open trapdoor
+down
+go north
+go east
+go east
+go southgo east
+go east
+down
+down
+down
+Get coffin
+up
+go south
+Pray
+go east
+go south
+go east
+go west
+go west
+Open case
+Put coffin in case
+Get book
+Get bell
+Get candles
+down
+go south
+go east
+Get painting
+go west
+go north
+go north
+go east
+go east
+go east
+Echo
+Get bar
+up
+go east
+go north
+Drop painting
+Get matchbook
+go south
+go south
+down
+go west
+go south
+go south
+go east
+down
+Ring bell
+Get candles
+Light match
+Light candles with match
+Read prayer
+Drop matchbook
+Drop candles
+Drop book
+go south
+get skull
+go north
+up
+go north
+go north
+go north
+go west
+go west
+go south
+up
+Put skull in case
+Put bar in case
+down
+go north
+go west
+go west
+go west
+up
+Get knife and bag
+go southgo west
+go east
+go south
+go southgo east
+Odysseus
+go east
+go east
+Put bag in case
+Drop rusty knife
+down
+go north
+light lamp
+go east
+go east
+go north
+go northgo east
+go east
+down
+Get pile
+up
+go north
+go north
+Get screwdriver
+Get wrench
+Press red button
+douse lamp
+Press yellow button
+go south
+go south
+Turn bolt with wrench
+Drop wrench
+go west
+wait
+wait
+wait
+light lamp
+go north
+Get trunk
+go south
+go southgo west
+go south
+go south
+go west
+go west
+go south
+up
+Put trunk in case
+Drop pile
+Drop screwdriver
+down
+go north
+go east
+go east
+go south
+go south
+Touch mirror
+go east
+down
+Get trident
+go south
+Get pump
+go south
+go south
+go southgo west
+go south
+go south
+go west
+go west
+go south
+up
+douse lamp
+Put trident in case
+Get sceptre
+Get pile
+light lamp
+down
+go north
+go east
+go east
+go east
+go east
+go east
+Drop pile
+Inflate pile
+Drop pump
+Get label
+Read label
+Drop label
+Throw sceptre in boat
+Enter boat
+Launch
+Get sceptre
+Wait
+Get buoy
+Wait
+Land
+Get out of boat
+go north
+Open buoy
+Get emerald
+Drop buoy
+Get shovel
+go northgo east
+Dig sand
+Dig sand
+Dig sand
+Dig sand
+Drop shovel
+Get scarab
+go southgo west
+douse lamp
+go south
+go south
+Wave sceptre
+go west
+go west
+Get pot
+go southgo west
+up
+up
+go northgo west
+go west
+go west
+go west
+Put sceptre in case
+Put pot in case
+Put emerald in case
+Put scarab in case
+Get nasty knife
+light lamp
+go west
+go west
+up
+Kill thief with knife
+kill thief with knife
+kill thief with knife
+Get chalice
+Drop knife
+Get painting
+Get egg
+get torch
+douse lamp
+down
+go east
+go east
+Put painting in case
+Get canary
+Put chalice in case
+Put egg in case
+go east
+go east
+go north
+go north
+go east
+Wind canary
+Get bauble
+go west
+go south
+go east
+go west
+go west
+Put canary in case
+Put bauble in case
+put jewels in case
+Get screwdriver
+Get garlic
+down
+go north
+go east
+go east
+go south
+go south
+Touch mirror
+go north
+go west
+go north
+go west
+go north
+go east
+Put torch in basket
+Put screwdriver in basket
+go north
+light lamp
+down
+go east
+go northgo east
+go southgo east
+go southgo west
+down
+down
+go south
+Get coal
+go north
+up
+up
+go north
+go east
+go south
+go north
+up
+go south
+Put coal in basket
+Lower basket
+go north
+down
+go east
+go northgo east
+go southgo east
+go southgo west
+down
+down
+go west
+Drop all
+go west
+Get all from basket
+go south
+Open lid
+Put coal in machine
+Close lid
+Turn switch with screwdriver
+Open lid
+Get diamond
+go north
+Put diamond in basket
+Put torch in basket
+Put screwdriver in basket
+go east
+Get lamp
+Get garlic
+go east
+up
+up
+go north
+go east
+go south
+go north
+Get bracelet
+up
+go south
+Raise basket
+Get all from basket
+go west
+Get figurine
+go south
+go east
+go south
+down
+Drop garlic
+up
+Put diamond in case
+Put torch in case
+Put bracelet in case
+Put figurine in case
+go west
+go west
+up
+take trunk
+down
+go east
+go east
+PUT trunk in case
+Look
+Get map
+Examine map
+go east
+go east
+go north
+go west
+go south
+go west
+go west

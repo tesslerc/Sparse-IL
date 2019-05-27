@@ -1,0 +1,14 @@
+go north
+go east
+Open window
+go west
+go west
+Get lamp
+Get sword
+Move rug
+Open trapdoor
+go down
+Light lamp
+go north
+Kill troll with sword
+Kill troll with sword
